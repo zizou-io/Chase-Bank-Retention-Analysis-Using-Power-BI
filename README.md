@@ -1,6 +1,10 @@
 
 # Chase-Bank-Retention-Analysis
 
+---
+![](https://wp.cghnyc.com/media/chase-building-up-1380x1035.jpg)
+---
+
 ## Description
 This project focuses on addressing the issue of customer retention rate, particularly within Chase Bank. By leveraging Power BI, the analysis delves into customer data to identify underlying patterns leading to customer attrition. The insights derived from this analysis provide Chase Bank with valuable information to formulate data-driven strategies aimed at improving customer retention.
 
